@@ -1,2 +1,2 @@
 # color-clock
-First JS task
+The clock is changing it's color in every seconds.
